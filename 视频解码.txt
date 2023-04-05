@@ -1,0 +1,2 @@
+视频解码
+ffmpeg -i 67.mp4 -c:v libx264-strict -2 67-.mp4
